@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JRecyclerView</string>
+    <string name="j_pull_to_refresh">下拉刷新</string>
+
+    <string name="j_list_header_hint_normal">下拉刷新</string>
+    <string name="j_list_header_hint_release">释放立即刷新</string>
+    <string name="j_list_loading">正在加载&#8230;</string>
+    <string name="j_no_more_data">-- 我是有底线的 --</string>
+    <string name="j_refreshing">正在刷新&#8230;</string>
+    <string name="j_refresh_done">刷新完成</string>
+    <string name="j_loading_done">加载完成</string>
+    <string name="j_list_header_last_time">上次更新时间：</string>
+</resources>
